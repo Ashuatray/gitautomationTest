@@ -1,0 +1,3 @@
+
+this is the example to add the file github through the individul add file by git cmd and stagging process
+
