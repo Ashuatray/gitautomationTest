@@ -38,7 +38,7 @@ public class Addidng_cart {
 		
 		
 	
-		
+		System.out.println("this is the example of adding itme into cart");
 		
 		// TODO Auto-generated method stub
 
