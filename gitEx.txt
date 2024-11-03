@@ -1,3 +1,4 @@
 
 this is the example to add the file github through the individul add file by git cmd and stagging process
 
+this message is from the secound changes and merging the file in github
