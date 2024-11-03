@@ -16,6 +16,8 @@ public class Addidng_cart {
 		driver.get("https://rahulshettyacademy.com/seleniumPractise/");
 		List<WebElement> product = driver.findElements(By.cssSelector("h4[class='product-name']"));
 		int j=0;
+
+		System.out.println("practice for the git");
 		
 		for(int i=0;i<product.size();i++) {
 			String[] listProduct= product.get(i).getText().split("-");

@@ -18,6 +18,8 @@ public class AmazonAutosuggestive {
 			System.out.println(list.get(i).getText());
 		}
 		System.out.println(list.size());
+
+		System.out.println("this is the example of autosuggestive dropdown");
 		//driver.close();
 
 		// TODO Auto-generated method stub
