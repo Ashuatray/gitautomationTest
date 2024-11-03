@@ -38,11 +38,11 @@ public class Addidng_cart {
 		
 		
 	
-<<<<<<< HEAD
+
 		System.out.println("this is the example of adding itme into cart");
-=======
+
 		System.out.println("example of adding cart");
->>>>>>> da36804a2964421ff9a11f725dc3eef13a319ebf
+
 		
 		// TODO Auto-generated method stub
 
