@@ -1,0 +1,15 @@
+alphabats:-
+a 
+b
+c
+f
+g
+
+numbericals 
+
+1
+2
+3
+3
+4
+56
