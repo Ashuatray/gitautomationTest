@@ -22,6 +22,8 @@ public class Assignment_handleWindows {
 		System.out.println(text);
 		driver.switchTo().window(parantWindow);
 		System.out.println(driver.findElement(By.cssSelector("div.example h3")).getText());
+		
+		System.out.println("the example of the git for learnign about branch");
 		driver.quit();
 		
 		

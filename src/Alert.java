@@ -14,6 +14,7 @@ public class Alert {
 		driver.findElement(By.id("confirmbtn")).click();
 		System.out.println(driver.switchTo().alert().getText());
 		driver.switchTo().alert().accept();
+		System.out.println("this is example of branch for git ");
 		driver.close();
 		
 		

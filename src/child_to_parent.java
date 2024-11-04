@@ -8,6 +8,7 @@ public class child_to_parent {
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\ashua\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 			WebDriver driver = new ChromeDriver();
 			driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+			System.out.println("example of the parant to child and child to parant traverse");
 			System.out.println(driver.findElement(By.xpath("//header/div/button[1]/parent::div/button[2]")).getText());
 			driver.close();
 			
